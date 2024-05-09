@@ -27,7 +27,7 @@ The personal portfolio project serves multiple purposes, including:
 
 ## Acknowledgments
 
-I extend my sincere appreciation to Mr. Benson Abraham, my esteemed tutor and mentor at Cloud10 Tech Hub Limited, for his unwavering support, guidance, and dedication to my professional development. I am also grateful to Abia State University for providing me with the opportunity to participate in the internship program and for fostering an environment conducive to learning and growth.
+I extend my sincere appreciation to Mr. Benson Abraham, my esteemed tutor and mentor at Cloud10 Tech Hub Limited, for his unwavering support, guidance, and dedication to my professional development. I am also grateful to the Department of computer Science Abia State University Uturu for providing me with the opportunity to participate in the internship program and for fostering an environment conducive to learning and growth.
 
 Lastly, I express my heartfelt gratitude to my parents for their unconditional love, encouragement, and unwavering support throughout my educational journey. Their belief in my abilities and sacrifices have been the driving force behind my pursuit of excellence.
 
@@ -42,4 +42,6 @@ For inquiries or further information, please feel free to contact me:
 
 © 2024 Mabel Dagogo. All Rights Reserved.
 
-<img src="images/homepage.png" alt="Screenshot of Portfolio Homepage" width="500">
+<img src="images/homepage.png" alt="Screenshot of Portfolio Desktop Screen Homepage" width="500">
+<img src="images/home_tablet.png" alt="Screenshot of Portfolio Tablet Screen Homepage" width="500">
+<img src="images/mobile_home.png" alt="Screenshot of Portfolio Mobile Screen Homepage" width="500">
